@@ -1,0 +1,1316 @@
+{
+    "lens_id": "",
+    "document_id": "WUyiYK98STurBlNr_Vsl",
+    "original_document_id": "pvD24M54-uJ5aaZ3e3gd",
+    "version": "29",
+    "lastChanged": "1648316361571",
+    "preview": "icon.png",
+    "videoPreview": "preview.mp4",
+    "videoPreviewUpdateTime": "",
+    "isReadOnly": "false",
+    "isAutoSaved": "false",
+    "api_level": "public",
+    "public_api_user_data_access": "unrestricted",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "4",
+            "minor": "16",
+            "patch": "0",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "4",
+            "minor": "16",
+            "patch": "0",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "Behavior"
+                    ],
+                    [
+                        "Echopark"
+                    ],
+                    [
+                        "Echopark",
+                        "Diff"
+                    ],
+                    [
+                        "Echopark",
+                        "Specular"
+                    ],
+                    [
+                        "Script"
+                    ],
+                    [
+                        "basketball_FBX"
+                    ],
+                    [
+                        "basketball_FBX",
+                        "Materials"
+                    ],
+                    [
+                        "basketball_FBX",
+                        "Materials",
+                        "Lines"
+                    ],
+                    [
+                        "basketball_FBX",
+                        "Materials",
+                        "MainColor"
+                    ],
+                    [
+                        "basketball_FBX",
+                        "Meshes"
+                    ],
+                    [
+                        "basketball_FBX",
+                        "Meshes",
+                        "BasketballBall"
+                    ],
+                    [
+                        "basketball_FBX",
+                        "Meshes",
+                        "BasketballBall 2"
+                    ],
+                    [
+                        "basketball_FBX",
+                        "basketball_FBX"
+                    ],
+                    [
+                        "sketch-net-v2"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                [
+                    "1648312432019062:11360"
+                ]
+            ],
+            "selectionSetList": ""
+        },
+        "MetaInfoUIComponent": {
+            "hints": "",
+            "lens": "Untitled",
+            "applicability": "3",
+            "lens_descriptors": "",
+            "Spectacles2021UseAllowed": "true"
+        },
+        "PreviewUiComponent": {
+            "preview_descriptor": {
+                "is_capture": "0",
+                "camera_type": "2"
+            },
+            "show_snap_ui": "true",
+            "show_sponsored_ui": "false",
+            "preview_images_project_config": {
+                "back_preview_id": "bundle:Preview\/Images\/Beach.jpg",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Images\/Person 1.jpg",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/Images\/Pavement\/Pavement.jpg",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_videos_project_config": {
+                "back_preview_id": "bundle:Preview\/Videos\/Beach.webm",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Videos\/Idle Person 1.webm",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_ie_project_config": {
+                "back_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
+                "spectacles_preview_is_favorite": "false"
+            }
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                [
+                    "1648308859444919:391822"
+                ],
+                ""
+            ]
+        },
+        "ObjectTracking3DUIComponent": {
+            "foldedOwnerSceneObjects": ""
+        },
+        "Material::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        },
+        "Script::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        },
+        "VFX::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        }
+    },
+    "model": {
+        "IResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "10",
+                    "uid": "1588296316843646:534374",
+                    "name": "Files\/File3.jpeg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "11",
+                    "uid": "1588296316857901:534385",
+                    "name": "Files\/File5.jpeg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "12",
+                    "uid": "8675309:9035768",
+                    "name": "Physics Root World Settings Asset",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "13",
+                    "uid": "1648303457324322:296946",
+                    "name": "Files\/File8.dnn",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "14",
+                    "uid": "1648303471274824:297046",
+                    "name": "Files\/File11.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "15",
+                    "uid": "1648307881599152:312164",
+                    "name": "Files\/File12.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "16",
+                    "uid": "1648312431774937:11248",
+                    "name": "Files\/File13.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "17",
+                    "uid": "1648312431793065:11260",
+                    "name": "Files\/File14.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "18",
+                    "uid": "1648312431796922:11270",
+                    "name": "Files\/File15",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "19",
+                    "uid": "1648312431868693:11285",
+                    "name": "Files\/File17",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "20",
+                    "uid": "1648312431935587:11320",
+                    "name": "basketball_FBX",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                }
+            ],
+            "MaterialUpdateManager": {
+                "unrecognizedMaterials": ""
+            }
+        },
+        "InspectorComponent": {
+            "Component": {
+                "EyeColorVisual": {
+                    "uidData": "",
+                    "generalData": ""
+                },
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                },
+                "ScreenTransform": {
+                    "uidData": "",
+                    "generalData": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1517446348227994:84813",
+                "1": "1517446348228144:84822",
+                "2": "1528843813151434:5126",
+                "3": "1648303465860279:297040",
+                "4": "1648307881636060:312176",
+                "5": "1648310318256741:450925",
+                "6": "1648312432019062:11360",
+                "7": "1648312432019386:11370",
+                "8": "1648312508204133:14350"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "2",
+            "showOrthographicLayer": "false",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1",
+                    "colorCode": "20"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576",
+                    "colorCode": "21"
+                }
+            ]
+        },
+        "IFileManager": {
+            "pathes": [
+                {
+                    "k": "3",
+                    "v": "Files\/File3.jpeg"
+                },
+                {
+                    "k": "4",
+                    "v": "Files\/File4.jpeg"
+                },
+                {
+                    "k": "5",
+                    "v": "Files\/File5.jpeg"
+                },
+                {
+                    "k": "6",
+                    "v": "Files\/File6.jpeg"
+                },
+                {
+                    "k": "7",
+                    "v": "Files\/File7.hdr"
+                },
+                {
+                    "k": "8",
+                    "v": "Files\/File8.dnn"
+                },
+                {
+                    "k": "9",
+                    "v": "Files\/File9.onnx"
+                },
+                {
+                    "k": "10",
+                    "v": "Files\/File10.dnn"
+                },
+                {
+                    "k": "11",
+                    "v": "Files\/File11.js"
+                },
+                {
+                    "k": "12",
+                    "v": "Files\/File12.js"
+                },
+                {
+                    "k": "13",
+                    "v": "Files\/File13.mesh"
+                },
+                {
+                    "k": "14",
+                    "v": "Files\/File14.mesh"
+                },
+                {
+                    "k": "15",
+                    "v": "Files\/File15"
+                },
+                {
+                    "k": "16",
+                    "v": "Files\/File16.lsmat"
+                },
+                {
+                    "k": "17",
+                    "v": "Files\/File17"
+                },
+                {
+                    "k": "18",
+                    "v": "Files\/File18.lsmat"
+                },
+                {
+                    "k": "19",
+                    "v": "Files\/File19.oprfb"
+                },
+                {
+                    "k": "20",
+                    "v": "Files\/File20.fbx"
+                },
+                {
+                    "k": "21",
+                    "v": "Files\/File21.mesh"
+                },
+                {
+                    "k": "22",
+                    "v": "Files\/File22.mesh"
+                },
+                {
+                    "k": "23",
+                    "v": "Files\/File23.oprfb"
+                }
+            ]
+        },
+        "RemoteApi::ModelManager": {
+            "api_specs": ""
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn",
+            "sceneType": "binaryScene"
+        }
+    },
+    "controller": {
+        "IResourceController": {
+            "public": {
+                "pathes": [
+                    {
+                        "k": "967",
+                        "v": "Echopark.hdr"
+                    },
+                    {
+                        "k": "26605",
+                        "v": "sketch-net-v2.onnx"
+                    },
+                    {
+                        "k": "26606",
+                        "v": "Script.js"
+                    },
+                    {
+                        "k": "26607",
+                        "v": "Behavior.js"
+                    },
+                    {
+                        "k": "26608",
+                        "v": "basketball_FBX.fbx"
+                    },
+                    {
+                        "k": "26609",
+                        "v": "..\/AdditionalFiles\/basketball_FBX\/Materials"
+                    },
+                    {
+                        "k": "26610",
+                        "v": "..\/AdditionalFiles\/basketball_FBX\/Materials\/MainColor.lsmat"
+                    },
+                    {
+                        "k": "26611",
+                        "v": "..\/AdditionalFiles\/basketball_FBX\/Materials\/Lines.lsmat"
+                    }
+                ],
+                "hashes": [
+                    {
+                        "k": "1",
+                        "v": "671afbc1d6810060ccbaac866a91cfa1"
+                    },
+                    {
+                        "k": "2",
+                        "v": "8e599835d0d45c5879eafb1f474469cd"
+                    },
+                    {
+                        "k": "967",
+                        "v": "0cf0e87a54f33218fcf92a12d7f0ede2"
+                    },
+                    {
+                        "k": "26605",
+                        "v": "9968766863f5f31f728cfa449a6b714d"
+                    },
+                    {
+                        "k": "26606",
+                        "v": "e73931647f99f05e6360b2dd6b365e00"
+                    },
+                    {
+                        "k": "26607",
+                        "v": "324d936bf1b61fe7a9ad8efc0bd63807"
+                    },
+                    {
+                        "k": "26608",
+                        "v": "bbdb8f976a85ce4d9f48781198f0b296"
+                    },
+                    {
+                        "k": "26610",
+                        "v": "09583d63abf1183e1cf44a4ee8be0748"
+                    },
+                    {
+                        "k": "26611",
+                        "v": "bcaed10db2d7112e50d4a296c436b8f5"
+                    }
+                ],
+                "publicState": {
+                    "tree": {
+                        "isFolder": "true",
+                        "lastModified": "2022-03-26T12:39:26",
+                        "name": "Public",
+                        "hash": "0b087f4e3cab527005fd49eb3f04f8b1",
+                        "children": [
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2022-03-25T22:25:51",
+                                "name": "sketch-net-v2.onnx",
+                                "hash": "9968766863f5f31f728cfa449a6b714d",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2019-10-14T17:54:24",
+                                "name": "basketball_FBX.fbx",
+                                "hash": "bbdb8f976a85ce4d9f48781198f0b296",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2022-03-26T11:18:01",
+                                "name": "Behavior.js",
+                                "hash": "324d936bf1b61fe7a9ad8efc0bd63807",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2022-03-26T12:39:26",
+                                "name": "Script.js",
+                                "hash": "e73931647f99f05e6360b2dd6b365e00",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2022-03-15T00:04:10",
+                                "name": "Echopark.hdr",
+                                "hash": "0cf0e87a54f33218fcf92a12d7f0ede2",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2022-03-15T00:04:10",
+                                "name": "folder.lock",
+                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                "children": ""
+                            }
+                        ]
+                    }
+                },
+                "complexResources": ""
+            },
+            "tree": {
+                "name": "",
+                "type": "0",
+                "subtype": "-1",
+                "resourceId": "-1",
+                "dependency": "0",
+                "hidden": "false",
+                "uid": "-1:-1",
+                "fileId": "18446744073709551615",
+                "originalId": "18446744073709551615",
+                "publicId": "18446744073709551615",
+                "source": "",
+                "additional": "",
+                "resources": [
+                    {
+                        "name": "Render Target",
+                        "type": "1",
+                        "subtype": "1",
+                        "resourceId": "1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1:1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Device Camera Texture",
+                        "type": "1",
+                        "subtype": "3",
+                        "resourceId": "2",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "2:2",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Physics Root World Settings",
+                        "type": "36",
+                        "subtype": "1",
+                        "resourceId": "12",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "8675309:9035768",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Echopark",
+                        "type": "9",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "2",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "7",
+                        "originalId": "18446744073709551615",
+                        "publicId": "967",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Diff",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "10",
+                                "dependency": "1",
+                                "hidden": "false",
+                                "uid": "1588296316843646:534374",
+                                "fileId": "3",
+                                "originalId": "4",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Specular",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "11",
+                                "dependency": "1",
+                                "hidden": "false",
+                                "uid": "1588296316857901:534385",
+                                "fileId": "5",
+                                "originalId": "6",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "sketch-net-v2",
+                        "type": "22",
+                        "subtype": "0",
+                        "resourceId": "13",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1648303457324322:296946",
+                        "fileId": "8",
+                        "originalId": "9",
+                        "publicId": "26605",
+                        "source": "\/Users\/vvzhu\/Downloads\/sketch-net-v2.onnx",
+                        "additional": {
+                            "normalization_data": {
+                                "logits": {
+                                    "scale": [
+                                        "1",
+                                        "1",
+                                        "1"
+                                    ],
+                                    "bias": [
+                                        "0",
+                                        "0",
+                                        "0"
+                                    ]
+                                },
+                                "images": {
+                                    "scale": [
+                                        "1"
+                                    ],
+                                    "bias": [
+                                        "0"
+                                    ]
+                                }
+                            },
+                            "compatibility_data": [
+                                {
+                                    "layerName": "7",
+                                    "layerType": "conv",
+                                    "compatibilityInfos": [
+                                        {
+                                            "type": "0",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "1",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "2",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "3",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "layerName": "8",
+                                    "layerType": "relu",
+                                    "compatibilityInfos": [
+                                        {
+                                            "type": "0",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "1",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "2",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "3",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "layerName": "9",
+                                    "layerType": "pool",
+                                    "compatibilityInfos": [
+                                        {
+                                            "type": "0",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "1",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "2",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "3",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "layerName": "10",
+                                    "layerType": "conv",
+                                    "compatibilityInfos": [
+                                        {
+                                            "type": "0",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "1",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "2",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "3",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "layerName": "11",
+                                    "layerType": "relu",
+                                    "compatibilityInfos": [
+                                        {
+                                            "type": "0",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "1",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "2",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "3",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "layerName": "12",
+                                    "layerType": "pool",
+                                    "compatibilityInfos": [
+                                        {
+                                            "type": "0",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "1",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "2",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "3",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "layerName": "20_permute_f1nd1ngn3m0",
+                                    "layerType": "permute",
+                                    "compatibilityInfos": [
+                                        {
+                                            "type": "0",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "1",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "2",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "3",
+                                            "isCompatible": "false",
+                                            "info": "The layer type is not supported by backend"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "layerName": "20",
+                                    "layerType": "flat",
+                                    "compatibilityInfos": [
+                                        {
+                                            "type": "0",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "1",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "2",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "3",
+                                            "isCompatible": "false",
+                                            "info": "The layer type is not supported by backend"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "layerName": "logits",
+                                    "layerType": "fullyconnected",
+                                    "compatibilityInfos": [
+                                        {
+                                            "type": "0",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "1",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "2",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        },
+                                        {
+                                            "type": "3",
+                                            "isCompatible": "true",
+                                            "info": ""
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "name": "Script",
+                        "type": "4",
+                        "subtype": "0",
+                        "resourceId": "14",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1648303471274824:297046",
+                        "fileId": "11",
+                        "originalId": "18446744073709551615",
+                        "publicId": "26606",
+                        "source": "\/Users\/vvzhu\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudiowRFcGeIicTaU\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Behavior",
+                        "type": "4",
+                        "subtype": "0",
+                        "resourceId": "15",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1648307881599152:312164",
+                        "fileId": "12",
+                        "originalId": "18446744073709551615",
+                        "publicId": "26607",
+                        "source": "\/Users\/vvzhu\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudiowRFcGeIicTaU\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                        "additional": ""
+                    },
+                    {
+                        "name": "basketball_FBX",
+                        "type": "18",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "2",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "20",
+                        "originalId": "18446744073709551615",
+                        "publicId": "26608",
+                        "source": "\/Users\/vvzhu\/Downloads\/basketball_FBX.fbx",
+                        "additional": {
+                            "materialMapping": [
+                                {
+                                    "k": "Lines",
+                                    "v": "1648312431868693:11285"
+                                },
+                                {
+                                    "k": "MainColor",
+                                    "v": "1648312431796922:11270"
+                                }
+                            ]
+                        },
+                        "resources": [
+                            {
+                                "name": "Meshes",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "1",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "BasketballBall",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "16",
+                                        "dependency": "1",
+                                        "hidden": "false",
+                                        "uid": "1648312431774937:11248",
+                                        "fileId": "13",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "\/Users\/vvzhu\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudiokUucxOwGInug\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": {
+                                            "info": {
+                                                "vertexAttribs": [
+                                                    {
+                                                        "semantic": "position",
+                                                        "format": "9",
+                                                        "canBeDisabled": "false"
+                                                    },
+                                                    {
+                                                        "semantic": "normal",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    }
+                                                ],
+                                                "hasBlendShapes": "false"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "BasketballBall 2",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "17",
+                                        "dependency": "1",
+                                        "hidden": "false",
+                                        "uid": "1648312431793065:11260",
+                                        "fileId": "14",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "\/Users\/vvzhu\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudiokUucxOwGInug\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": {
+                                            "info": {
+                                                "vertexAttribs": [
+                                                    {
+                                                        "semantic": "position",
+                                                        "format": "9",
+                                                        "canBeDisabled": "false"
+                                                    },
+                                                    {
+                                                        "semantic": "normal",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    }
+                                                ],
+                                                "hasBlendShapes": "false"
+                                            }
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Materials",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "26609",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "MainColor",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "18",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1648312431796922:11270",
+                                        "fileId": "15",
+                                        "originalId": "16",
+                                        "publicId": "26610",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Lines",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "19",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1648312431868693:11285",
+                                        "fileId": "17",
+                                        "originalId": "18",
+                                        "publicId": "26611",
+                                        "source": "",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "basketball_FBX",
+                                "type": "12",
+                                "subtype": "-1",
+                                "resourceId": "20",
+                                "dependency": "1",
+                                "hidden": "false",
+                                "uid": "1648312431935587:11320",
+                                "fileId": "19",
+                                "originalId": "23",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        "InspectorController": {
+            "selection": {
+                "objects": [
+                    "1648312508204133:14350"
+                ]
+            }
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": "",
+            "17": "",
+            "18": "",
+            "19": "",
+            "20": "",
+            "22": "",
+            "23": "",
+            "24": "",
+            "25": "",
+            "26": "",
+            "27": "",
+            "28": "",
+            "29": "",
+            "30": "",
+            "31": "",
+            "32": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": [
+                    {
+                        "k": "1648312432019062:11360",
+                        "v": {
+                            "prefab": "1648312431935587:11320",
+                            "isActive": "true",
+                            "mapping": [
+                                {
+                                    "k": "1648312431933626:11300",
+                                    "v": "1648312432019062:11360"
+                                },
+                                {
+                                    "k": "1648312431934176:11302",
+                                    "v": "1648312432019386:11370"
+                                },
+                                {
+                                    "k": "1648312431934381:11304",
+                                    "v": "1648312432019532:11372"
+                                },
+                                {
+                                    "k": "1648312431935013:11317",
+                                    "v": "1648312432020048:11385"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            "importInfo": [
+                {
+                    "k": "1648312431935587:11320",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1648312431933626:11300"
+                        },
+                        {
+                            "k": [
+                                "BasketballBall"
+                            ],
+                            "v": "1648312431934176:11302"
+                        },
+                        {
+                            "k": [
+                                "BasketballBall",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1648312431934381:11304"
+                        },
+                        {
+                            "k": [
+                                "BasketballBall",
+                                "Component.RenderMeshVisual1"
+                            ],
+                            "v": "1648312431935013:11317"
+                        }
+                    ]
+                }
+            ]
+        },
+        "Compression::IController": {
+            "new_compression_info": [
+                {
+                    "k": "1648303457324322:296946",
+                    "v": {
+                        "infos": {
+                            "originalSize": "16334",
+                            "compressedSize": "16334",
+                            "extension": "dnn",
+                            "settings": {
+                                "isCompressed": "false"
+                            }
+                        },
+                        "uncompressed_file": "10",
+                        "compressed_files": ""
+                    }
+                },
+                {
+                    "k": "1648312431774937:11248",
+                    "v": {
+                        "infos": {
+                            "originalSize": "19207",
+                            "compressedSize": "19207",
+                            "originalRAM": "56160",
+                            "compressedRAM": "56160",
+                            "extension": "mesh",
+                            "settings": {
+                                "isCompressed": "false",
+                                "info": {
+                                    "vertexAttribs": [
+                                        {
+                                            "semantic": "position",
+                                            "format": "9",
+                                            "canBeDisabled": "false"
+                                        },
+                                        {
+                                            "semantic": "normal",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        }
+                                    ],
+                                    "hasBlendShapes": "false"
+                                },
+                                "type": "0",
+                                "attributeFormat": "",
+                                "draco": {
+                                    "posBits": "11",
+                                    "texBits": "10",
+                                    "normalBits": "8",
+                                    "colorBits": "8",
+                                    "compressLvl": "7"
+                                }
+                            }
+                        },
+                        "uncompressed_file": "21",
+                        "compressed_files": ""
+                    }
+                },
+                {
+                    "k": "1648312431793065:11260",
+                    "v": {
+                        "infos": {
+                            "originalSize": "5686",
+                            "compressedSize": "5686",
+                            "originalRAM": "15336",
+                            "compressedRAM": "15336",
+                            "extension": "mesh",
+                            "settings": {
+                                "isCompressed": "false",
+                                "info": {
+                                    "vertexAttribs": [
+                                        {
+                                            "semantic": "position",
+                                            "format": "9",
+                                            "canBeDisabled": "false"
+                                        },
+                                        {
+                                            "semantic": "normal",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        }
+                                    ],
+                                    "hasBlendShapes": "false"
+                                },
+                                "type": "0",
+                                "attributeFormat": "",
+                                "draco": {
+                                    "posBits": "11",
+                                    "texBits": "10",
+                                    "normalBits": "8",
+                                    "colorBits": "8",
+                                    "compressLvl": "7"
+                                }
+                            }
+                        },
+                        "uncompressed_file": "22",
+                        "compressed_files": ""
+                    }
+                }
+            ]
+        },
+        "AssetLibController": {
+            "itemUidToID": ""
+        }
+    },
+    "templateName": "Empty Project",
+    "templateUrl": "Lens Studio version 4.16.0"
+}
